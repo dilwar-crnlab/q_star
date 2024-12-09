@@ -1,0 +1,3 @@
+from optical_rl_gym.envs.mod_deeprmsa_env import ModifiedDeepRMSAEnv
+from optical_rl_gym.envs.mod_rmsa_env import ModifiedRMSAEnv
+
